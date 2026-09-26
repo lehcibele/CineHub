@@ -304,6 +304,7 @@ main {
 /* CONTEÚDO MODAL */
 .modal-conteudo { 
     width: 100%; 
+    max-width: 800px;
     max-height: 90vh; 
     overflow-y: auto; 
     background-color: var(--fundo-secundario);
